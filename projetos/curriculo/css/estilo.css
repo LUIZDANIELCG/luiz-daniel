@@ -1,0 +1,13 @@
+main {
+    width: 100%;
+    height: 100vh;
+    border-radius: 5px;
+    padding: 5px;
+    font-size-adjust:var(100%);
+}
+
+img {
+    width: 100px;
+  border:1px solid;
+  position: absolute; right: 5px;
+  }
